@@ -12,9 +12,6 @@
 
 *MENTOR* : NEELA SANTOSH
 
-## Got it — here is a **550-word version** (kept very close to 550 words, not more).
-
----
 
 # TASK 1 — TEXT SUMMARIZATION 
 
