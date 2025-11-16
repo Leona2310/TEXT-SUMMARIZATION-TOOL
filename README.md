@@ -16,7 +16,7 @@
 
 ---
 
-# **TASK 1 — TEXT SUMMARIZATION (≈550 Words)**
+# TASK 1 — TEXT SUMMARIZATION 
 
 Text summarization is an essential Natural Language Processing (NLP) task designed to reduce long pieces of text into shorter, meaningful summaries without losing important information. In this task, the objective was to build an automatic summarization system that can take long paragraphs or articles and generate concise, readable summaries. To achieve this, I implemented a summarizer using the **Hugging Face Transformers library**, specifically the **BART (facebook/bart-large-cnn)** model, which is widely used for high-quality abstractive summarization. The goal was to demonstrate how modern AI can understand, interpret, and condense language in a human-like manner.
 
@@ -28,6 +28,4 @@ This task demonstrates a very practical application of NLP. In the real world, t
 
 Overall, Task 1 successfully shows how AI can make text processing more efficient. Using BART through the Hugging Face pipeline allowed the creation of a summarization system that is both powerful and easy to implement. With only a few lines of code, the model can understand and rewrite complex text in a shorter, clearer format. This task not only demonstrates technical understanding of NLP but also highlights how AI can be applied to everyday tasks that require quick understanding of long information. It shows how summarization models are becoming essential tools in modern workflows where time, clarity, and efficiency matter.
 
----
 
-If you want, I can now write **Task 2 (Speech Recognition)** in exactly **550 words** as well.
