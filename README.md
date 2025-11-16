@@ -25,7 +25,7 @@ This task demonstrates a very practical application of NLP. In the real world, t
 
 Overall, Task 1 successfully shows how AI can make text processing more efficient. Using BART through the Hugging Face pipeline allowed the creation of a summarization system that is both powerful and easy to implement. With only a few lines of code, the model can understand and rewrite complex text in a shorter, clearer format. This task not only demonstrates technical understanding of NLP but also highlights how AI can be applied to everyday tasks that require quick understanding of long information. It shows how summarization models are becoming essential tools in modern workflows where time, clarity, and efficiency matter.
 
-#OUTPUT 
+# OUTPUT 
 
 <img width="1581" height="221" alt="image" src="https://github.com/user-attachments/assets/7c079844-1f3c-43dc-88a8-99ca34ef0492" />
 
